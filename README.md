@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Simple Weather App with React
 
-Packages used: moment.js, Semantic React UI Library.
+This is an app that shows the current weather at your location. Forecasts might be added soon. I used axios, styled components and, obiviously, react.
 
-API used: https://openweathermap.org/
+API used: [OpenWeatherMap](https://openweathermap.org/)
+
